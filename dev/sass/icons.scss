@@ -1,0 +1,51 @@
+:root{
+    --icon-size: 12px;
+}
+
+.icon {
+    height: calc(var(--icon-size) * 3);
+    width: calc(var(--icon-size) * 3);
+    display: inline-block;
+    background: center/contain no-repeat transparent;
+}
+
+.icon-elec{
+    background-image: url(../assets/img/icon-electroneum.svg);
+}
+.icon-elec-classic{
+    background-image: url(../assets/img/icon-ethereum-classic.svg);
+}
+.icon-eth {
+    background-image: url(../assets/img/icon-ethereum.svg);
+}
+.icon-ethos{
+    background-image: url(../assets/img/icon-ethos.svg);
+}
+.icon-metav{
+    background-image: url(../assets/img/icon-metaverse-etp.svg);
+}
+
+.icon-sm{
+    height: calc(var(--icon-size) * 2);
+    width: calc(var(--icon-size) * 2);
+}
+
+.icon-md {
+    height: calc(var(--icon-size) * 3);
+    width: calc(var(--icon-size) * 3);
+}
+
+.icon-lg {
+    height: calc(var(--icon-size) * 4);
+    width: calc(var(--icon-size) * 4);
+}
+
+.icon-xl {
+    height: calc(var(--icon-size) * 5);
+    width: calc(var(--icon-size) * 5);
+}
+
+.icon-xxl {
+    height: calc(var(--icon-size) * 6);
+    width: calc(var(--icon-size) * 6);
+}
