@@ -191,10 +191,10 @@
         }
     }
 
-    t {
+    &-light {
         border-color: $btn-light-bc;
         background-color: $btn-light-bgc;
-        color: #fff;
+        color: $btn-light-color;
 
         &:hover,
         &:active {
