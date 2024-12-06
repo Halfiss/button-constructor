@@ -1,3 +1,94 @@
 :root {
     --icon-size: 12px;
 }
+
+$btn-font-size: 18px;
+$btn-padding-y: 16px;
+$btn-padding-x: 24px;
+$btn-bgc: #ecfaec;
+$btn-br: 6px;
+$btn-hover-bgc: #d0e0d0;
+$btn-active-bgc: #7ba07b;
+
+$btn-primary-bc: #4dabf5;
+$btn-primary-bgc: $btn-primary-bc;
+$btn-primary-hover-bc: #2196f3;
+$btn-primary-hover-bgc: $btn-primary-hover-bc;
+$btn-primary-focus-bc: #1769aa;
+$btn-primary-focus-bgc: $btn-primary-focus-bc;
+$btn-primary-outline-color: $btn-primary-hover-bc;
+$btn-primary-outline-bc: $btn-primary-hover-bc;
+$btn-primary-outline-bgc: $btn-primary-hover-bc;
+
+$btn-secondary-bc: #33ab9f;
+$btn-secondary-bgc: $btn-secondary-bc;
+$btn-secondary-hover-bc: #009688;
+$btn-secondary-hover-bgc: $btn-secondary-hover-bc;
+$btn-secondary-focus-bc: #00695f;
+$btn-secondary-focus-bgc: $btn-secondary-focus-bc;
+$btn-secondary-outline-color: $btn-secondary-hover-bc;
+$btn-secondary-outline-bc: $btn-secondary-hover-bc;
+$btn-secondary-outline-bgc: $btn-secondary-hover-bc;
+
+$btn-success-bc: #6fbf73;
+$btn-success-bgc: $btn-success-bc;
+$btn-success-hover-bc: #4caf50;
+$btn-success-hover-bgc: $btn-success-hover-bc;
+$btn-success-focus-bc: #357a38;
+$btn-success-focus-bgc: $btn-success-focus-bc;
+$btn-success-outline-color: $btn-success-hover-bc;
+$btn-success-outline-bc: $btn-success-hover-bc;
+$btn-success-outline-bgc: $btn-success-hover-bc;
+
+$btn-danger-bc: #f6685e;
+$btn-danger-bgc: $btn-danger-bc;
+$btn-danger-hover-bc: #f44336;
+$btn-danger-hover-bgc: $btn-danger-hover-bc;
+$btn-danger-focus-bc: #aa2e25;
+$btn-danger-focus-bgc: $btn-danger-focus-bc;
+$btn-danger-outline-color: $btn-danger-hover-bc;
+$btn-danger-outline-bc: $btn-danger-hover-bc;
+$btn-danger-outline-bgc: $btn-danger-hover-bc;
+
+$btn-warning-bc: #ffef62;
+$btn-warning-bgc: $btn-warning-bc;
+$btn-warning-hover-bc: #ffeb3b;
+$btn-warning-hover-bgc: $btn-warning-hover-bc;
+$btn-warning-focus-bc: #b2a429;
+$btn-warning-focus-bgc: $btn-warning-focus-bc;
+$btn-warning-outline-color: $btn-warning-hover-bc;
+$btn-warning-outline-bc: $btn-warning-hover-bc;
+$btn-warning-outline-bgc: $btn-warning-hover-bc;
+
+$btn-info-bc: #35baf6;
+$btn-info-bgc: $btn-info-bc;
+$btn-info-hover-bc: #03a9f4;
+$btn-info-hover-bgc: $btn-info-hover-bc;
+$btn-info-focus-bc: #0276aa;
+$btn-info-focus-bgc: $btn-info-focus-bc;
+$btn-info-outline-color: $btn-info-hover-bc;
+$btn-info-outline-bc: $btn-info-hover-bc;
+$btn-info-outline-bgc: $btn-info-hover-bc;
+
+$btn-light-bc: #f0f0f0;
+$btn-light-bgc: $btn-light-bc;
+$btn-light-hover-bc: #ececec;
+$btn-light-hover-bgc: $btn-light-hover-bc;
+$btn-light-focus-bc: #dadada;
+$btn-light-focus-bgc: $btn-light-focus-bc;
+$btn-light-outline-color: #1a1a1a;
+$btn-light-outline-bc: $btn-light-hover-bc;
+$btn-light-outline-bgc: $btn-light-hover-bc;
+
+$btn-dark-bc: #212529;
+$btn-dark-bgc: $btn-dark-bc;
+$btn-dark-hover-bc: #424649;
+$btn-dark-hover-bgc: $btn-dark-hover-bc;
+$btn-dark-focus-bc: #373b3e;
+$btn-dark-focus-bgc: $btn-dark-focus-bc;
+$btn-dark-outline-color: $btn-dark-hover-bc;
+$btn-dark-outline-bc: $btn-dark-hover-bc;
+$btn-dark-outline-bgc: $btn-dark-hover-bc;
+
+$btn-outline-br-w: 2px;
+$btn-roundet-br: 25px;
